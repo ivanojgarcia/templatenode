@@ -1,0 +1,32 @@
+{
+    "Folio": 123,
+    "Estado": "ABONADA",
+    "Tipo": "TOTAL",
+    "MtoGiro": 1000,
+    "MtoTotal": 1000,
+    "MtoExctes": 0,
+    "Feccurse": "01/03/2020",
+    "Fecabono": "31/03/2020",
+    "EstPago": "VIGENTE",
+    "Documentos": [
+      {
+        "FolDTE": 1,
+        "RutPagador": "19",
+        "RSPagador": "EMPRESA 19",
+        "MtoGiro": 1000,
+        "MtoTot": 1000,
+        "MtoExc": 0,
+        "FecVto": "10/04/2020",
+        "FecPag": "10/04/2020",
+        "DetEst": null
+      }
+    ],
+    "Etapas": [
+      {
+        "ID": 1,
+        "Nombre": "ABONADO",
+        "Estado": "OKA",
+        "Tipo": "NO ACCIONABLE"
+      }
+    ]
+  }

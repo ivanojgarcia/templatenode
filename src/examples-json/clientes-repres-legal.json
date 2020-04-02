@@ -1,0 +1,8 @@
+{
+    "Representantes": [
+      {
+        "rut": "Rut del Representante Legal",
+        "nombre": "Nombre del Representante Legal"
+      }
+    ]
+  }

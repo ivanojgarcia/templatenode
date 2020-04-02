@@ -1,0 +1,16 @@
+{
+    "contratos": [
+      {
+        "fecfirma": "31/10/2019",
+        "documento": "Nombre del Documento",
+        "Link": "Link de Descarga",
+        "numopera": "numero de operacion",
+        "estado": "firmado",
+        "productos": [
+          "prod1",
+          "prod2",
+          "prod3"
+        ]
+      }
+    ]
+  }
