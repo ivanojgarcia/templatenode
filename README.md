@@ -14,9 +14,9 @@ Install developer dependencies (installation of dependencies from the package-js
 -First we start the server, for this we will do the following:
 
 ```sh
-$ cd server
+$ cd templatenode
 $ npm install
-$ npm start
+$ npm run dev
 ```
 If is necesary can you delete the package-lock.json
 
